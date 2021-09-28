@@ -1,0 +1,67 @@
+0	18:20:09.286	Compiling 'MACD Sample'
+0	18:20:09.287	Compiling 'Moving Average'
+0	18:20:10.563	Compiling 'Accelerator'
+0	18:20:10.563	Compiling 'Accumulation'
+0	18:20:10.563	Compiling 'Alligator'
+0	18:20:10.563	Compiling 'ATR'
+0	18:20:10.563	Compiling 'Awesome'
+0	18:20:10.563	Compiling 'Bands'
+0	18:20:10.563	Compiling 'Bears'
+0	18:20:10.563	Compiling 'Bulls'
+0	18:20:10.563	Compiling 'CCI'
+0	18:20:10.563	Compiling 'Custom Moving Averages'
+0	18:20:10.563	Compiling 'Heiken Ashi'
+0	18:20:10.563	Compiling 'Ichimoku'
+0	18:20:10.563	Compiling 'iExposure'
+0	18:20:10.563	Compiling 'MACD'
+0	18:20:10.563	Compiling 'Momentum'
+0	18:20:10.564	Compiling 'OsMA'
+0	18:20:10.564	Compiling 'Parabolic'
+0	18:20:10.564	Compiling 'RSI'
+0	18:20:10.564	Compiling 'Stochastic'
+0	18:20:10.564	Compiling 'ZigZag'
+0	18:20:10.564	Compiling 'SimplePanel'
+0	18:20:14.527	Compiling 'PeriodConverter'
+0	18:20:14.527	Compiling 'DLLSampleTester'
+0	18:20:14.527	Compiling 'PipeClient'
+0	18:20:14.527	Compiling 'PipeClientPure'
+0	18:20:16.098	Compiling 'stdlib'
+0	18:47:36.556	Custom indicator Bands EURUSD,H4: loaded successfully
+0	18:47:36.565	Custom indicator ATR EURUSD,H4: loaded successfully
+0	18:47:36.572	Expert Moving Average EURUSD,H4: loaded successfully
+0	18:47:36.572	Moving Average EURUSD,H4 inputs: Lots=0.1; MaximumRisk=0.02; DecreaseFactor=3.0; MovingPeriod=12; MovingShift=6; 
+0	18:47:36.584	Bands EURUSD,H4: initialized
+0	18:47:36.594	ATR EURUSD,H4: initialized
+0	19:05:31.731	Compiling 'strata'
+3	19:05:33.501	cannot open file 'C:\Program Files (x86)\RoboForex - MetaTrader 4\MQL4\Experts\strata.ex4' [2]
+0	19:05:33.523	Custom indicator ATR EURUSD,H4: loaded successfully
+3	19:05:33.523	cannot open file 'C:\Program Files (x86)\RoboForex - MetaTrader 4\MQL4\Experts\PipStriderV134_edu_nodll.ex4' [2]
+3	19:07:01.376	cannot open file 'C:\Program Files (x86)\RoboForex - MetaTrader 4\MQL4\Experts\strata.ex4' [2]
+3	19:08:51.972	cannot open file 'C:\Program Files (x86)\RoboForex - MetaTrader 4\MQL4\Experts\strata.mq4.ex4' [2]
+3	19:10:44.740	cannot open file 'C:\Program Files (x86)\RoboForex - MetaTrader 4\MQL4\Experts\strata.mq4.ex4' [2]
+3	19:13:40.687	cannot open file 'C:\Program Files (x86)\RoboForex - MetaTrader 4\MQL4\Experts\PipStriderV134_edu_nodll.ex4' [2]
+0	19:13:55.805	Expert Pipsi EURUSD,H4: loaded successfully
+0	19:14:02.682	Expert Pipsi EURUSD,H4: removed
+0	19:14:04.115	Expert Moving Average EURUSD,H4: loaded successfully
+0	19:14:08.908	Moving Average EURUSD,H4 inputs: Lots=0.1; MaximumRisk=0.02; DecreaseFactor=3.0; MovingPeriod=12; MovingShift=6; 
+0	19:14:08.924	Moving Average EURUSD,H4: initialized
+0	17:44:30.446	Compiling 'PipStriderV134_edu_nodll'
+0	22:56:44.838	Expert PT EURUSD,H4: loaded successfully
+0	22:56:44.838	PT EURUSD,H4 inputs: ServerPort=1122; location=Market\Pytrader mt4 Python; 
+0	22:56:44.939	PT EURUSD,H4: Alert: You can not rename the EA!!!
+3	22:56:44.939	PT EURUSD,H4: initialization failed (1)
+0	22:56:44.939	PT EURUSD,H4: uninit reason 8
+0	22:56:44.939	PT EURUSD,H4: Server socket terminated
+2	22:56:44.939	PT EURUSD,H4: close terminal with code -12347
+0	22:56:44.942	Expert PT EURUSD,H4: removed
+0	22:58:13.272	Expert PT EURUSD,H1: loaded successfully
+0	22:58:33.441	PT EURUSD,H1 inputs: ServerPort=1122; location=Market\Pytrader mt4 Python; 
+0	22:58:33.519	PT EURUSD,H1: Alert: You can not rename the EA!!!
+3	22:58:33.519	PT EURUSD,H1: initialization failed (1)
+0	22:58:33.519	PT EURUSD,H1: uninit reason 8
+0	22:58:33.519	PT EURUSD,H1: Server socket terminated
+0	22:58:33.522	Expert PT EURUSD,H1: removed
+0	22:58:54.296	Expert PT EURUSD,H1: loaded successfully
+0	22:58:59.576	Expert PT EURUSD,H1: removed
+3	23:02:33.148	cannot open file 'Z:\root\123\MQL4\Experts\PT.ex4' [2]
+3	23:02:33.161	cannot open file 'Z:\root\123\MQL4\Experts\PT.ex4' [2]
