@@ -13,17 +13,14 @@ RUN apt-get update &&\
 	apt-get install -y wine32 && \
 	apt-get autoclean && \
 	apt-get autoremove && \
-	rm -rf /var/lib/apt/lists/* && \
-	useradd --shell /bin/bash --uid "1010" --password "" appuser
-
+	rm -rf /var/lib/apt/lists/* 
 
 WORKDIR /root
 
-COPY --chown=appuser:appuser startup.sh /home/appuser/MT4/
-COPY --chown=appuser:appuser supervisord.conf /home/appuser/MT4/
-COPY --chown=appuser:appuser MT4 /home/appuser/MT4
-USER appuser
+COPY  startup.sh /root/MT4/
+COPY  supervisord.conf /root/MT4/
+COPY  MT4 /root/MT4
 ENV DISPLAY=:1
 EXPOSE 5900
-WORKDIR /home/appuser/MT4/
+WORKDIR /root/MT4/
 ENTRYPOINT ["./startup.sh"]
