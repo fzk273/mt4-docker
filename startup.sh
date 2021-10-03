@@ -14,4 +14,4 @@ fi
 #echo 2 | update-alternatives --config x-terminal-emulator >> /dev/null 2>&1
 # start a shell
 export DISPLAY=:1
-xvfb-run wine terminal.exe
+xvfb-run wine terminal64.exe /config:config.ini /portable
