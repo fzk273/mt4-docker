@@ -1,0 +1,24 @@
+0	22:00:42.011	Migration: data to 'C:\Program Files (x86)\RoboForex - MetaTrader 4' migration started
+0	22:00:42.012	Migration: data migration finished, no virtual folder
+0	22:00:42.012	LiveUpdate: update C:\Program Files (x86)\RoboForex - MetaTrader 4\MQL4 folder started
+0	22:00:42.058	LiveUpdate: update C:\Program Files (x86)\RoboForex - MetaTrader 4\MQL4 folder finished
+0	22:00:42.088	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:00:42.088	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 24616 / 31945 Mb, Disk: 296 / 457 Gb, GMT+3
+0	22:00:42.088	Data Folder: C:\Program Files (x86)\RoboForex - MetaTrader 4
+0	22:00:42.356	Sources recompilation started
+0	22:00:51.291	Sources recompilation finished (28 compiled in 8934 msec)
+0	22:01:07.601	RoboForex - MT4 build 1350 stopped
+0	22:39:56.057	Migration: data to 'C:\Program Files (x86)\RoboForex - MetaTrader 4' migration started
+0	22:39:56.057	Migration: data migration finished, no virtual folder
+0	22:39:56.058	LiveUpdate: update C:\Program Files (x86)\RoboForex - MetaTrader 4\MQL4 folder started
+0	22:39:56.095	LiveUpdate: update C:\Program Files (x86)\RoboForex - MetaTrader 4\MQL4 folder finished
+0	22:39:56.131	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:39:56.132	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 24715 / 31945 Mb, Disk: 296 / 457 Gb, GMT+3
+0	22:39:56.132	Data Folder: C:\Program Files (x86)\RoboForex - MetaTrader 4
+0	22:39:56.457	Sources recompilation started
+0	22:40:05.105	Sources recompilation finished (28 compiled in 8648 msec)
+0	22:40:12.422	RoboForex - MT4 build 1350 stopped
+0	22:42:54.583	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:42:54.584	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 24852 / 31945 Mb, Disk: 296 / 457 Gb, GMT+3
+0	22:42:54.584	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:42:54.855	Started with configuration file 'config_mt4.ini'

@@ -1,0 +1,31 @@
+0	22:00:01.229	Compiling 'python'
+3	22:00:03.148	cannot open file 'Z:\home\l\job\bot\dockerfile_mt5\MT4\MQL4\Experts\Advisors\python.mq4.ex4' [3]
+3	22:00:36.610	cannot open file 'Z:\home\l\job\bot\dockerfile_mt5\MT4\MQL4\Experts\python.ex4' [2]
+3	22:09:59.243	cannot open file 'Z:\home\l\job\bot\dockerfile_mt5\MT4\MQL4\Experts\Advisors\python.mq4.ex4' [3]
+3	22:12:33.182	cannot open file 'Z:\home\l\job\bot\dockerfile_mt5\MT4\MQL4\Experts\Advisors\python.mq4.ex4' [3]
+3	22:14:40.832	cannot open file 'Z:\home\l\job\bot\dockerfile_mt5\MT4\MQL4\Experts\Advisors\Moving Average.ex4' [3]
+3	22:16:13.961	cannot open file 'Z:\home\l\job\bot\dockerfile_mt5\MT4\MQL4\Experts\MQL4/Experts/Moving Average.ex4' [3]
+3	22:16:45.525	cannot open file 'Z:\home\l\job\bot\dockerfile_mt5\MT4\MQL4\Experts\MQL4\Experts\Moving Average.ex4' [3]
+3	22:20:22.897	'Z:\home\l\job\bot\dockerfile_mt5\MT4\MQL4\Libraries\libzmq.dll' is not 32-bit version
+0	22:20:22.897	Expert python.ex4 EURUSD,M1: loaded successfully
+0	22:20:22.912	python.ex4 EURUSD,M1: initialized
+0	22:20:24.684	python.ex4 EURUSD,M1: initialized
+0	22:31:26.738	python.ex4 EURUSD,M1: uninit reason 9
+0	22:31:26.847	Expert python.ex4 EURUSD,M1: removed
+3	22:31:37.911	'Z:\home\l\job\bot\dockerfile_mt5\MT4\MQL4\Libraries\libzmq.dll' is not 32-bit version
+0	22:31:37.911	Expert python.ex4 EURUSD,M1: loaded successfully
+0	22:31:37.933	python.ex4 EURUSD,M1: initialized
+0	22:31:39.847	python.ex4 EURUSD,M1: initialized
+3	22:34:47.892	'python' is not expert and cannot be executed
+3	22:35:01.303	'python' is not expert and cannot be executed
+0	22:37:26.558	python.ex4 EURUSD,M1: uninit reason 9
+0	22:37:26.664	Expert python.ex4 EURUSD,M1: removed
+3	22:37:37.411	'Z:\home\l\job\bot\dockerfile_mt5\MT4\MQL4\Libraries\libzmq.dll' is not 32-bit version
+0	22:37:37.411	Expert python.ex4 EURUSD,M1: loaded successfully
+0	22:37:37.427	python.ex4 EURUSD,M1: initialized
+0	22:43:19.450	Expert python.ex4 EURUSD,M1: loaded successfully
+0	22:43:19.468	python.ex4 EURUSD,M1: initialized
+0	22:43:21.318	python.ex4 EURUSD,M1: initialized
+0	22:45:15.851	python.ex4 EURUSD,M1: uninit reason 9
+0	22:45:15.917	Expert python.ex4 EURUSD,M1: removed
+0	22:45:26.249	Expert python.ex4 EURUSD,M1: loaded successfully

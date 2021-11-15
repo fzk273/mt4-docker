@@ -16,11 +16,11 @@ RUN apt-get update &&\
 	rm -rf /var/lib/apt/lists/* && \
 	useradd --shell /bin/bash --uid "1010" --password "" appuser
 
-COPY --chown=appuser:appuser startup.sh /home/appuser/MT5/
-COPY --chown=appuser:appuser supervisord.conf /home/appuser/MT5/
-COPY --chown=appuser:appuser MT5 /home/appuser/MT5
+COPY --chown=appuser:appuser startup.sh /home/appuser/MT4/
+COPY --chown=appuser:appuser supervisord.conf /home/appuser/MT4/
+COPY --chown=appuser:appuser MT5 /home/appuser/MT4
 USER appuser
 ENV DISPLAY=:1
 EXPOSE 1110
-WORKDIR /home/appuser/MT5/
-ENTRYPOINT ["./startup.sh"]
+WORKDIR /home/appuser/MT4/
+ENTRYPOINT ["./startup_mt4.sh"]

@@ -1,0 +1,81 @@
+0	22:00:00.941	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:00:00.942	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 22922 / 31945 Mb, Disk: 293 / 457 Gb, GMT+3
+0	22:00:00.942	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:00:01.228	Sources recompilation started
+0	22:00:02.414	Sources recompilation finished (1 compiled in 1191 msec)
+0	22:00:02.416	Started with configuration file '../config_mt4.ini'
+0	22:00:03.930	'62468405': login on RoboForex-DemoPro through Russia (ping: 46.70 ms)
+0	22:00:04.810	'62468405': login datacenter on RoboForex-DemoPro through Russia (ping: 46.70 ms)
+0	22:00:04.926	'62468405': previous successful authorization performed from 109.252.48.235
+0	22:00:15.830	'62468405': ping to current access point Russia is 45.35 ms
+0	22:09:50.209	RoboForex - MT4 build 1350 stopped
+0	22:09:58.287	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:09:58.287	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 22917 / 31945 Mb, Disk: 293 / 457 Gb, GMT+3
+0	22:09:58.287	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:09:58.568	Started with configuration file '../config_mt4.ini'
+0	22:12:32.225	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:12:32.226	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 22889 / 31945 Mb, Disk: 293 / 457 Gb, GMT+3
+0	22:12:32.226	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:12:32.506	Started with configuration file '../config_mt4.ini'
+0	22:14:39.898	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:14:39.898	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 22837 / 31945 Mb, Disk: 293 / 457 Gb, GMT+3
+0	22:14:39.898	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:14:40.178	Started with configuration file '../config_mt4.ini'
+0	22:16:12.996	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:16:12.996	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 22793 / 31945 Mb, Disk: 293 / 457 Gb, GMT+3
+0	22:16:12.996	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:16:13.279	Started with configuration file '../config_mt4.ini'
+0	22:16:14.786	'62468405': login on RoboForex-DemoPro through Russia (ping: 45.35 ms)
+0	22:16:15.519	'62468405': login datacenter on RoboForex-DemoPro through Russia (ping: 45.35 ms)
+0	22:16:15.658	'62468405': previous successful authorization performed from 95.28.26.59
+0	22:16:31.232	RoboForex - MT4 build 1350 stopped
+0	22:16:44.577	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:16:44.578	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 22795 / 31945 Mb, Disk: 293 / 457 Gb, GMT+3
+0	22:16:44.578	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:16:44.853	Started with configuration file '../config_mt4.ini'
+0	22:16:46.398	'62468405': login on RoboForex-DemoPro through Russia (ping: 45.35 ms)
+0	22:16:47.193	'62468405': login datacenter on RoboForex-DemoPro through Russia (ping: 45.35 ms)
+0	22:16:47.329	'62468405': previous successful authorization performed from 95.28.26.59
+0	22:19:44.091	RoboForex - MT4 build 1350 stopped
+0	22:20:21.918	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:20:21.919	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 22824 / 31945 Mb, Disk: 293 / 457 Gb, GMT+3
+0	22:20:21.919	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:20:22.204	Started with configuration file '../config_mt4.ini'
+2	22:20:22.897	Expert python.ex4 EURUSD,M1: loaded successfully
+0	22:20:23.815	'62468405': login on RoboForex-DemoPro through Russia (ping: 45.35 ms)
+0	22:20:24.506	'62468405': login datacenter on RoboForex-DemoPro through Russia (ping: 45.35 ms)
+0	22:20:24.628	'62468405': previous successful authorization performed from 95.28.26.59
+2	22:31:26.847	Expert python.ex4 EURUSD,M1: removed
+0	22:31:27.088	RoboForex - MT4 build 1350 stopped
+0	22:31:36.950	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:31:36.950	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 22680 / 31945 Mb, Disk: 293 / 457 Gb, GMT+3
+0	22:31:36.950	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:31:37.233	Started with configuration file '../config_mt4.ini'
+2	22:31:37.911	Expert python.ex4 EURUSD,M1: loaded successfully
+0	22:31:38.885	'62468405': login on RoboForex-DemoPro through Russia (ping: 45.35 ms)
+0	22:31:39.623	'62468405': login datacenter on RoboForex-DemoPro through Russia (ping: 45.35 ms)
+0	22:31:39.793	'62468405': previous successful authorization performed from 95.28.26.59
+3	22:34:47.892	'python' is not expert and cannot be executed
+3	22:35:01.303	'python' is not expert and cannot be executed
+2	22:37:26.664	Expert python.ex4 EURUSD,M1: removed
+0	22:37:26.872	RoboForex - MT4 build 1350 stopped
+0	22:37:36.471	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:37:36.471	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 22687 / 31945 Mb, Disk: 293 / 457 Gb, GMT+3
+0	22:37:36.471	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:37:36.747	Started with configuration file '../config_mt4.ini'
+2	22:37:37.411	Expert python.ex4 EURUSD,M1: loaded successfully
+0	22:43:18.489	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:43:18.490	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 22485 / 31945 Mb, Disk: 293 / 457 Gb, GMT+3
+0	22:43:18.490	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:43:18.770	Started with configuration file '../config_mt4.ini'
+2	22:43:19.450	Expert python.ex4 EURUSD,M1: loaded successfully
+0	22:43:20.353	'62468405': login on RoboForex-DemoPro through Russia (ping: 45.35 ms)
+0	22:43:21.100	'62468405': login datacenter on RoboForex-DemoPro through Russia (ping: 45.35 ms)
+0	22:43:21.239	'62468405': previous successful authorization performed from 95.28.26.59
+2	22:45:15.917	Expert python.ex4 EURUSD,M1: removed
+0	22:45:16.075	RoboForex - MT4 build 1350 stopped
+0	22:45:25.270	RoboForex - MT4 build 1350 started (RoboMarkets Ltd)
+0	22:45:25.271	Microsoft Windows 7 x64, IE 11, 8 x Intel Core i5-9300H  @ 2.40GHz, Memory: 22469 / 31945 Mb, Disk: 293 / 457 Gb, GMT+3
+0	22:45:25.271	Data Folder: Z:\home\l\job\bot\dockerfile_mt5\MT4
+0	22:45:25.558	Started with configuration file '../config_mt4.ini'
+2	22:45:26.249	Expert python.ex4 EURUSD,M1: loaded successfully
